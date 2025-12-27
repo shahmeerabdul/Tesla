@@ -1,2 +1,1 @@
 stealth startup
-.. Work strated ..
